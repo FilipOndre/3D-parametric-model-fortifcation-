@@ -12,7 +12,7 @@ The model is implemented in Blender (Geometry Nodes) and allows users to generat
 
 ## Contents
 
- - `parametric model fortifcation.blend` - a tool for generating and reconstructing fortifications based on measured values.
+ - `parametric model fortifcation.rar` - a tool for generating and reconstructing fortifications based on measured values.
  -` Manual.docx` - detailed instructions for setting up the basic geometry, applying the parametric model, and a guide to the variables that need to be supplied for reconstruction.
 
 ---
